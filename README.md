@@ -16,10 +16,12 @@ gated attention | 96.43
 multihead attention | 96.41
 
 ### Confusion Matrix
-#### Gated attention
-![alt text](gated-attention.png)
-#### Multihead attention
-![alt text](multihead-attention.png)
+
+
+
+Gated attention            |  Multihead attention
+:-------------------------:|:-------------------------:
+![](gated-attention.png)  |  ![](multihead-attention.png)
 
 
 ## References
