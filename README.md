@@ -1,6 +1,13 @@
 # General overview
 Used attention from the paper [[1]](#1) and multiheadattention from paper [[2]](#2) and compared the results. Tried using dropout and hyperparameter optimization 
 
+## Average Time taken
+
+loss  | time(seconds)
+--- | --- 
+gated attention | 20171
+multihead attention | 25448
+
 ## Results
 
 loss  | aucuracy
