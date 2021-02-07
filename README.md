@@ -26,6 +26,9 @@ Gated attention            |  Multihead attention
 
 ### Image comparision
 ![](comaprision.png)
+
+### optimizer vs accuracy
+![](optimizer_vs_accuracy(1).png
 ## References
 - [1]</a> Schlemper, Jo & Oktay, Ozan & Chen, Liang & Matthew, Jacqueline & Knight, Caroline & Kainz, Bernhard & Glocker, Ben & Rueckert, Daniel. (2018). Attention-Gated Networks for Improving Ultrasound Scan Plane Detection. /par
 - <a id="2">[2]</a> Vaswani, Ashish & Shazeer, Noam & Parmar, Niki & Uszkoreit, Jakob & Jones, Llion & Gomez, Aidan & Kaiser, Lukasz & Polosukhin, Illia. (2017). Attention Is All You Need. 
