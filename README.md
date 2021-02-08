@@ -34,7 +34,7 @@ Gated attention            |  Multihead attention
 
 optimizer vs accuracy           |  learning rate vs accuracy
 :-------------------------:|:-------------------------:
-![](optimizer_vs_accuracy(1).png)  |  ![](accuracy vs learning rate.png)
+![](optimizer_vs_accuracy(1).png)  |  ![](accuracy_vs_learning_rate.png)
 
 
 ## References
