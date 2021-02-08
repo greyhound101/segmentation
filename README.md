@@ -27,11 +27,15 @@ Gated attention            |  Multihead attention
 ### Image comparision
 ![](comaprision.png)
 
-#### optimizer vs accuracy
-![](optimizer_vs_accuracy(1).png)
 
-#### optimizer vs accuracy
-![](optimizer_vs_accuracy(1).png)
+
+
+### Hyperparameter optimization
+
+optimizer vs accuracy           |  learning rate vs accuracy
+:-------------------------:|:-------------------------:
+![](optimizer_vs_accuracy(1).png)  |  ![](accuracy vs learning rate.png)
+
 
 ## References
 - [1]</a> Schlemper, Jo & Oktay, Ozan & Chen, Liang & Matthew, Jacqueline & Knight, Caroline & Kainz, Bernhard & Glocker, Ben & Rueckert, Daniel. (2018). Attention-Gated Networks for Improving Ultrasound Scan Plane Detection. /par
