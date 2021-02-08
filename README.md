@@ -27,7 +27,10 @@ Gated attention            |  Multihead attention
 ### Image comparision
 ![](comaprision.png)
 
-### optimizer vs accuracy
+#### optimizer vs accuracy
+![](optimizer_vs_accuracy(1).png)
+
+#### optimizer vs accuracy
 ![](optimizer_vs_accuracy(1).png)
 
 ## References
