@@ -4,3 +4,5 @@
 ![alt text](loss_2d(2).png)
 
 ## Output Examples
+
+## Tested on 3DIRCADb Results
