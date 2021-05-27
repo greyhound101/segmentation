@@ -6,6 +6,6 @@
 
 ## Test Results on 3DIRCADb 
 
-  | Liver | Tumor
+Dice Score  | Liver | Tumor
 --- | --- | ---
-Dice Score | 0.9419 | 0.51.01
+1 | 0.9419 | 0.51.01
