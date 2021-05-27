@@ -5,3 +5,7 @@
 ![alt text](images/Untitled Diagram.png)
 
 ## Test Results on 3DIRCADb 
+
+Dice Score  | Liver | Tumor
+--- | --- | ---
+ | 0.9419 | 0.51.01
