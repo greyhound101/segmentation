@@ -1,7 +1,7 @@
 # Implementation of paper H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation from CT Volumes
 
 ## Output Examples
-![caption](images/Untitled Diagram.png)
+![caption](images/input.png)
 
 ## Test Results on 3DIRCADb 
 
