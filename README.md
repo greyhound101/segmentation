@@ -7,4 +7,4 @@
 
 Dice Score  | Liver | Tumor
 --- | --- | ---
-1 | 0.9419 | 0.5101
+3DIRCADb | 0.9419 | 0.5101
