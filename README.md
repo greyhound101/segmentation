@@ -6,3 +6,7 @@
 ## Test Results on 3DIRCADb 
 
 ![caption](results.png)
+
+
+## References
+- https://github.com/xmengli999/H-DenseUNet
